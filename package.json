@@ -1,0 +1,15 @@
+{
+  "name": "data_structures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Array.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
